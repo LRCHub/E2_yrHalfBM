@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "眠る音",
+  "base_artist": "ソノサキトマリ",
+  "createdAt": "2026-02-10T05:05:39.826213Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眠る音",
+      "artist": "ソノサキトマリ",
+      "has_synced": false,
+      "path": "select/pl_01_眠る音_ソノサキトマリ.txt"
+    }
+  ]
+}
